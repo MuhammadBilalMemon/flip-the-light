@@ -28,7 +28,7 @@ function Room() {
       |{" "}
       <button
         onClick={() => {
-          setLit(true);
+          setLit(false);
         }}
       >
         Turn OFF
